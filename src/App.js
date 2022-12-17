@@ -4,6 +4,7 @@ import NewExpense from './components/NewExpense/NewExpense';
 import Expenses from './components/Expenses/Expenses';
 
 //set again
+// set2
 
 const App = () => {
   const expenses = [
